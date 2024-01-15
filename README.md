@@ -50,7 +50,7 @@ There are several ways to run the code.
 2. If anyone wants to understand the model architecture only then please follow the file 'model.py.
 
 ### Data: 
-The data is too big. That's why I only uploaded the data PT_S38417 for 0.78V. Please check the [data.zip](/Google_CoLab/data.zip) and [RAPTA_Demo](/Google_CoLab/RAPTA_DEMO.ipynb) to understand the data processing.
+Here is a [sample data](./data/model_purpose/PT_S38417) for PT_S38417 for 0.78V. Please check the [data.zip](/Google_CoLab/data.zip) and [RAPTA_Demo](/Google_CoLab/RAPTA_DEMO.ipynb) to understand the data processing.
 
 ## Citation
 If you use this work, please cite the following paper.
